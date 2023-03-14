@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Rest Assured Testings">
+    <test verbose="2" preserve-order="true"
+          name="E:/Vasanthi-SDET/WorkspaceVasanthi/SeleniumLocators/src/main/java/com/cdd/CascadingDropdownScenarios.java">
+        <classes>
+            <class name="com.cdd.scenarios.CascadingDropdownScenarios">
+                <methods>
+                    <include name="cascadingDropdownScenarios"/>
+                </methods>
+            </class>
+        </classes>
+     </test> <!-- Test -->
+</suite> <!-- Suite -->
+
